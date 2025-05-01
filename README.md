@@ -31,20 +31,10 @@ To set up the project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/cs-cspit/23CS-SEM4-CS210_8_10.git`
 2. Navigate into the project directory: `cd Bank-Management-System-in-Web`
 3. Install a local server environment like XAMPP or WAMP.
-4. Copy the [database](https://github.com/sawongam/Bank-Management-System-in-Web/blob/main/database/bms.sql) to your Local Server environment.
+4. Copy the [database](https://github.com/cs-cspit/23CS-SEM4-CS210_8_10/blob/ea528dfe60fc1cb597767c21858b861968c12dc7/database/bms.sql) to your Local Server environment.
 5. Move the project files to the htdocs folder of your local server.
 6. Start your local server and open the project in your browser.
-<!--
-## Demo
 
-You can visit the [link](http://sawongambnkltd.atspace.cc) to visit the live version of the website. 
-
-You can register a new account or log in using the following credentials:
-- Account Number: 200
-- Password: a
-
-Once logged in, you can access your account, transfer funds, view your profile, transaction history, and analytics.
--->
 <!--## Screenshots:
 ![Home](https://i.ibb.co/ck6s0ss/bank-management-system-home.jpg)
 ![Dashboard](https://i.ibb.co/pZJJFVV/bank-management-system-dashboard.jpg)
@@ -55,8 +45,3 @@ Once logged in, you can access your account, transfer funds, view your profile, 
 
 Contributions to the project are welcomed.
 If you find any bugs, issues, or have suggestions for improvements, feel free to open an issue or submit a pull request. Let's collaborate and make this project better together.
-<!--
-## Author
-
-This project was created by [sawongam](https://github.com/sawongam)
--->
